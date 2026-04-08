@@ -1,4 +1,4 @@
-# Job Data ETL Pipeline - MongoDB & Power BI Dashboard
+# Job ETL Pipeline - MongoDB & Power BI Dashboard
 
 **End-to-end data pipeline** thu thập dữ liệu tin tuyển dụng tự động từ web, lưu trữ bằng MongoDB (NoSQL) và trực quan hóa bằng Power BI.
 
